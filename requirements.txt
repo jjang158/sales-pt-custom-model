@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-huggingface
+fastapi
+uvicorn[standard]
+pypdf
+sentence-transformers
+faiss-gpu
+python-dotenv
+requests
