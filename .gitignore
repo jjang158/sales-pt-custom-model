@@ -1,0 +1,20 @@
+# Python 캐시 / 바이트 코드
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# 가상환경 / 라이브러리
+lib/
+venv/
+
+# 모델 및 벡터 스토어 (대용량)
+models/
+vector_store/
+
+# 로그 / 임시 파일
+*.log
+
+# IDE / Editor
+.vscode/
+.idea/
